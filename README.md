@@ -36,3 +36,7 @@ The following code was written in Python 3.7. The required libraries are listed 
 - configparser (configuration file processing)<br>
 - peakutils (peak finder)<br>
 - jupyter (Python notebook environment)<br>
+
+All packages can be fetched using pip:
+
+`pip3 install pandas numpy matplotlib mle scipy configparser peakutils jupyter`
