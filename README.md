@@ -32,7 +32,7 @@ The following code was written in Python 3.7. The required libraries are listed 
 - pandas (data storage and calculation)<br>
 - numpy (calculation)<br>
 - matplotlib (plotting)<br>
-- scipy (chi square fitting)<br>
+- scipy (log-likelihood functions, peakfinder)<br>
 - configparser (configuration file processing)<br>
 - jupyter (Python notebook environment)<br>
 - iminuit (Python interface to the C++ Minuit2 library of ROOT6 → used for maximum likelihood estimation)
