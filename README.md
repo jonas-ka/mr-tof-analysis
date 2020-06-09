@@ -9,14 +9,14 @@ Created on 07 September 2019 for the ISOLTRAP experiment
 
 ### References
 [1]: https://doi.org/10.1038/nature12226
-[2]: https://doi.org/10.1103/PhysRevLett.120.232501
+[2]: https://doi.org/10.1103/PhysRevLett.124.092502
 [3]: https://doi.org/10.1088/1674-1137/41/3/030002
 [5]: https://www.etp-ms.com/technology/new_detectors
 [6]: https://www.fastcomtec.com/products/software/
 
-[1] F. Wienholtz, et al. Nature 498, 346 (2013).<br>
-[2] M. Mougeot, et al. Phys. Rev. Lett. 120, 232501 (2018).<br>
-[3] W.J. Huang, et al. Chinese Phys. C 41, 030002 (2017).<br>
+[1] F. Wienholtz, et al. *Nature* **498**, 346 (2013).<br>
+[2] Manea, V. & Karthein, J. et al. *Phys. Rev. Lett.* **120**, 092502 (2020).<br>
+[3] W.J. Huang, et al. *Chinese Phys. C* **41**, 030002 (2017).<br>
 
 ### Application
 The code was used to analyse data for the following publication:
