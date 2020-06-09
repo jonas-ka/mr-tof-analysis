@@ -21,7 +21,7 @@ Created on 07 September 2019 for the ISOLTRAP experiment
 ### Application
 The code was used to analyse data for the following publication:
 
-[4] M. Mougeot, et al. in preparation (2019)<br>
+[4] M. Mougeot, et al. in preparation (2020)<br>
 
 ### Introduction
 The following code was written to reconstruct raw, unbinned multi-reflection time-of-flight (MR-ToF) data taken by a MagnetTOF electron multiplier particle detector by ETP Ion Detect [5] and using the MPANT software [6] for data aquisition. Besides a regular spectral time-of-flight (ToF) analysis with unbinned, maximum likelihood estimation and diverse cuts, the code includes a more advanced automated statistical cutting tool for ToF-drift detection based on rolling averaging. Finally, a mass value can be calculated from the fitted peaks by utilizing the Atomic Mass Evaluation (AME16) database [3].
